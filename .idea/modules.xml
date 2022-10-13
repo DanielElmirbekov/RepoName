@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Conn/Conn.iml" filepath="$PROJECT_DIR$/Conn/Conn.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaRepoName.iml" filepath="$PROJECT_DIR$/JavaRepoName.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Week5/Week5.iml" filepath="$PROJECT_DIR$/Week5/Week5.iml" />
     </modules>
   </component>
 </project>
